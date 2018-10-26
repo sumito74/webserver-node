@@ -1,8 +1,8 @@
-## Aplicacion del Clima - Curso Node
+## Aplicacion Webserver - Curso Node
 
 Recuerden ejecutar ```npm install``` para las librerias
 
 ### Ejemplo:
 ```
-node app -d "San Jose, Costa Rica"
+node server.js
 ```
